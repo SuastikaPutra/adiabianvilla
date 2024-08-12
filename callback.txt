@@ -1036,3 +1036,54 @@ Array
     [publisherOrderId] => BC24UNIVSG307Z41XVM
     [sourceAccount] => 
 )
+Array
+(
+    [merchantCode] => DS19433
+    [amount] => 1055000
+    [merchantOrderId] => 1722409247
+    [productDetail] => Deluxe Villa Rooms
+    [additionalParam] => 
+    [resultCode] => 00
+    [signature] => cf8b7b4792369f0b9f9dfcc3335b6070
+    [paymentCode] => BC
+    [merchantUserId] => 
+    [reference] => DS1943324T2Z80RVNY2N45HE
+    [spUserHash] => 
+    [settlementDate] => 2024-08-02
+    [publisherOrderId] => BC24CWNSNNE3HFDVXQ4
+    [sourceAccount] => 
+)
+Array
+(
+    [merchantCode] => DS19433
+    [amount] => 1055000
+    [merchantOrderId] => 1722409532
+    [productDetail] => Deluxe Villa Rooms
+    [additionalParam] => 
+    [resultCode] => 00
+    [signature] => c74cb834ac8a7605f3f28fcbd25ef127
+    [paymentCode] => BC
+    [merchantUserId] => 
+    [reference] => DS1943324GX5GXEH6J7K7SRB
+    [spUserHash] => 
+    [settlementDate] => 2024-08-02
+    [publisherOrderId] => BC24ZSRS8PNC5R3Z8NV
+    [sourceAccount] => 
+)
+Array
+(
+    [merchantCode] => DS19433
+    [amount] => 1055000
+    [merchantOrderId] => 1722410100
+    [productDetail] => Deluxe Villa Rooms
+    [additionalParam] => 
+    [resultCode] => 00
+    [signature] => 9186b90a51f3fa065ef11ea6dd47b886
+    [paymentCode] => BC
+    [merchantUserId] => 
+    [reference] => DS19433248IYIW4I177E8OZY
+    [spUserHash] => 
+    [settlementDate] => 2024-08-02
+    [publisherOrderId] => BC2420XXBIHAA6NG1D8
+    [sourceAccount] => 
+)
